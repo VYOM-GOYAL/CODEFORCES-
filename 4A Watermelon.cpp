@@ -1,9 +1,3 @@
-The following is the code for the problem:  4A Watermelon
-
-
-
-
-
 
 #include<iostream>
 using namespace std;
