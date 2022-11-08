@@ -1,5 +1,10 @@
 The following is the code for the problem:  4A Watermelon
 
+
+
+
+
+
 #include<iostream>
 using namespace std;
  
@@ -7,7 +12,6 @@ int main()
 {
     int m;
     cin>>m;
- 
     if (m%2==0 && m!=2)
         {
          cout<<"YES"<<endl;
@@ -16,6 +20,5 @@ int main()
     {
          cout<<"NO"<<endl;
     }
- 
     return 0;
 }
